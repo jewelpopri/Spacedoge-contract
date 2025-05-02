@@ -2,18 +2,17 @@ README.md# SPACEDOGE ($SPDG)
 
 SPACEDOGE is a decentralized Ethereum-based meme token with a mission to build trust through transparency, zero dev control, and real community power. No tricks. No rug. Just rocket fuel.
 
----
 
 ## 💡 Key Features
 
 - ✅ Ownership Renounced  
 - 🔥 460 Billion Tokens Burned  
 - 💧 500 Billion Tokens Supplied to Uniswap V2  
+- 🪂 20 Billion Airdropped to Community  
+- ➕ 20 Billion Additional Sent to Uniswap V2  
 - ❌ No Mint, No Blacklist, No Dev Wallet  
-- 🔒 Contract audit in progress via SolidityScan  
-- 📱 iOS App Coming: **PEAL Wallet**
+- 🔒 Contract Audit In Progress (SolidityScan)
 
----
 
 ## 🔗 Official Links
 

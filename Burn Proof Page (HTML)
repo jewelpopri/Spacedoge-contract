@@ -1,0 +1,16 @@
+<!-- burn-proof.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Burn Proof - SpaceDoge</title>
+</head>
+<body>
+  <h1>🔥 Burn Proof</h1>
+  <p>Below are the official token burn transactions proving over 940 billion SPDG were burned:</p>
+  <ul>
+    <li><a href="https://etherscan.io/tx/0x2d2ddee3f14fd46eb6fdaa8f9073adb6aa0787470d747347dde9d79906b12daf" target="_blank">Burn TX #1</a></li>
+    <li><a href="https://etherscan.io/tx/0xf65fd2566e9eebf2bff5f9404ef38fdf5465fb9c354543150b91aa3e0815766c" target="_blank">Burn TX #2</a></li>
+  </ul>
+</body>
+</html>

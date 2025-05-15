@@ -1,3 +1,25 @@
+token Contract Address:0xf46CCb9E08fB7e32eED560C87d5e583a59A43420## SPACEDOGE (SPDG) Token Information
+
+**Contract Address:**  
+`0xYourTokenContractAddressHere`  
+[View on Etherscan](https://etherscan.io/token/0xYourTokenContractAddressHere)
+
+**Burn Proof Transactions:**  
+- [Burn TX #1](https://etherscan.io/tx/0x2d2ddee3f14fd46eb6fdaa8f9073adb6aa0787470d747347dde9d79906b12daf)  
+- [Burn TX #2](https://etherscan.io/tx/0xf65fd2566e9eebf2bff5f9404ef38fdf5465fb9c354543150b91aa3e0815766c)
+
+**Tokenomics Summary:**  
+- Total Supply: 1,000,000,000,000 SPDG  
+- Total Burned: 940,000,000,000 SPDG  
+- Circulating Supply: 60,000,000,000 SPDG  
+- No dev wallets, no taxes, ownership renounced
+
+**Website:** [https://spacedoges.xyz](https://spacedoges.xyz)  
+**Whitepaper:** [Link to Whitepaper]  
+**Community:** [Telegram](https://t.me/spacedogexyz), [Twitter](https://twitter.com/spacedogexyz)
+
+
+
 **SPACEDOGE (\$SPDG) WHITEPAPER**
 
 ---

@@ -1,56 +1,110 @@
-README.md# SPACEDOGE ($SPDG)
-
-SPACEDOGE is a decentralized Ethereum-based meme token with a mission to build trust through transparency, zero dev control, and real community power. No tricks. No rug. Just rocket fuel.
-
-
-## 💡 Key Features
-
-- ✅ Ownership Renounced  
-- 🔥 460 Billion Tokens Burned  
-- 💧 500 Billion Tokens Supplied to Uniswap V2  
-- 🪂 20 Billion Airdropped to Community  
-- ➕ 20 Billion Additional Sent to Uniswap V2  
-- ❌ No Mint, No Blacklist, No Dev Wallet  
-- 🔒 Contract Audit In Progress (SolidityScan)
-
-
-## 🔗 Official Links
-
-- 🌐 Website: [https://spacedoges.xyz](https://spacedoges.xyz)  
-- 🐦 Twitter: [@SpaceDogeETH](https://twitter.com/SpaceDogeETH)  
-- 📣 Telegram: [https://t.me/+546CC3Nn7Eo4MzRh](https://t.me/+546CC3Nn7Eo4MzRh)
+**SPACEDOGE (\$SPDG) WHITEPAPER**
 
 ---
 
-## 🔐 Smart Contract Info
+🚀 **SPACEDOGE: The Future of Space-Themed Community Tokens**
 
-- **Token Symbol:** SPDG  
-- **Blockchain:** Ethereum (ERC-20)  
-- **Contract Address:** *(Insert Here)*
+---
 
+**1. Introduction**
+SPACEDOGE (\$SPDG) is a next-generation decentralized meme token launched on the Ethereum blockchain. Inspired by the limitless possibilities of space exploration and the global Doge phenomenon, SPACEDOGE aims to build a strong, honest, and fully decentralized community-driven project with no developer wallets, no taxes, and no centralized control.
 
-## 👑 Powered by the Community. Led by SH.
-# SPACEDOGE ($SPDG)
+---
 
-SPACEDOGE is a decentralized Ethereum-based meme token with a mission to build trust through transparency, zero dev control, and real community power. No tricks. No rug. Just rocket fuel.
+**2. The Problem**
+Cryptocurrency investors today face countless projects with hidden developer fees, fake liquidity, and centralized control. Many projects prioritize profit over community, leading to frequent rugpulls and trust issues.
 
+---
 
-// SPDX-License-Identifier: MIT
-pragma solidity ^0.8.20;
+**3. The Solution: SPACEDOGE**
+SPACEDOGE provides a true community-first solution:
 
-import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
-import "@openzeppelin/contracts/access/Ownable.sol";
+* ✅ 0% Buy Tax / 0% Sell Tax
+* ✅ 100% Liquidity Added and Burned Forever
+* ✅ No Developer Wallets
+* ✅ Ownership Renounced
+* ✅ Powered entirely by community strength and transparency
 
-contract SpaceDoge is ERC20, Ownable {
-    constructor() ERC20("SPACEDOGE", "SPDG") {
-        _mint(msg.sender, 1_000_000_000_000 * 10 ** decimals());
-        renounceOwnership(); // Ownership renounced on deployment
-    }
-}
+---
 
+**4. Tokenomics**
 
+| Metric             | Value             |
+| ------------------ | ----------------- |
+| Name               | SPACEDOGE         |
+| Symbol             | SPDG              |
+| Blockchain         | Ethereum (ERC-20) |
+| Decimals           | 18                |
+| Total Supply       | 1 Trillion SPDG   |
+| Circulating Supply | 60 Billion SPDG   |
+| Buy/Sell Tax       | 0%                |
+| Liquidity Status   | Burned Forever    |
+| Developer Wallets  | None              |
 
+---
 
+**5. Final SPACEDOGE (SPDG) Token Distribution**
 
+| Category         | Amount                 |
+| ---------------- | ---------------------- |
+| Total Supply     | 1,000,000,000,000 SPDG |
+| 1st Burn (TX 1)  | 460,000,000,000 SPDG   |
+| 2nd Burn (TX 2)  | 480,000,000,000 SPDG   |
+| 🔥 Total Burned  | 940,000,000,000 SPDG   |
+| Remaining Supply | 60,000,000,000 SPDG    |
 
+* └── 🔒 20B LP (Uniswap V2) – Locked until 2030
+* └── 🎁 20B Airdrop Reserve – For community distribution
+* └── ♻️ 20B Migration – For old SPDG holders
 
+✅ 100% accounted for — zero hidden tokens
+
+---
+
+**🛡️ Security & Trust**
+
+* 🔥 94% of total supply burned
+* 🔐 All LP tokens from 20B locked until 2030
+* 🧾 No dev wallet, no taxes, no presale
+* 🔍 Contract verified + audited
+* 🪪 Ownership renounced
+* ✅ Etherscan verified
+* 🧑‍🚀 Community-owned forever
+
+---
+
+**6. Roadmap**
+
+| Phase     | Milestones                                             |
+| --------- | ------------------------------------------------------ |
+| Phase 1   | Token Launch, Liquidity Burn, Social Media Setup       |
+| Phase 2   | CoinGecko Listing, CoinMarketCap Application           |
+| Phase 3   | Website Launch, Whitepaper Publication                 |
+| Phase 4   | Community Growth, Airdrop Campaigns                    |
+| Phase 5   | CEX Listings, Strategic Partnerships, Merchandise Drop |
+| May 2025  | Burn Additional 10 Billion Tokens                      |
+| June 2025 | Register SPACEDOGE Logo with Etherscan                 |
+| July 2025 | Listing with 3 Major Centralized Exchanges (CEXs)      |
+
+---
+
+**7. Community Power**
+SPACEDOGE belongs to its community. Every holder is a co-pilot in the journey through the crypto galaxy. The mission is clear: Build, Promote, and Grow \$SPDG organically through strong community bonds.
+
+* Social media marketing
+* Viral campaigns
+* Strategic partnerships
+
+---
+
+**8. Legal Disclaimer**
+This document is for informational purposes only. It does not constitute financial, legal, or investment advice. Cryptocurrencies are highly volatile and involve significant risks. Always DYOR (Do Your Own Research).
+
+---
+
+💪 **SPACEDOGE: TO THE MOON AND BEYOND 🚀**
+
+* **Website:** [https://spacedoges.xyz](https://spacedoges.xyz)
+* **Twitter:** [https://twitter.com/spacedogexyz](https://twitter.com/spacedogexyz)
+* **Telegram:** [https://t.me/spacedogexyz](https://t.me/spacedogexyz)
+* **GitHub:** [https://github.com/jewelpopri](https://github.com/jewelpopri)

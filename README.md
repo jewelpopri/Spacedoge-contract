@@ -1,4 +1,4 @@
-token Contract Address:0xf46CCb9E08fB7e32eED560C87d5e583a59A43420## SPACEDOGE (SPDG) Token Information
+token Contract Address:0xf46CCb9E08fB7e32eED560C87d5e583a59A43420
 
 **Contract Address:**  
 `0xYourTokenContractAddressHere`  
